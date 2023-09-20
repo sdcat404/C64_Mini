@@ -18,11 +18,9 @@ pass: "chuckpeddle"
 mount / --remount -rw
 
 
-# Weird finds
-If a USB is plugged into the board when booting, you can't enter commands??? 
-
 # Speed
 115200
 
-
+# Game location
+/usr//share/the64/games
 
